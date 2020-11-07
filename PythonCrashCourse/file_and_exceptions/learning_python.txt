@@ -1,0 +1,8 @@
+In Python you can declare variable
+In Python you can make list
+In Python you can make tuple
+In Python you can make dictionary
+In Python you can looping repeated task
+In Python you can make function
+In Python you can make class
+In Python you can read and write file
